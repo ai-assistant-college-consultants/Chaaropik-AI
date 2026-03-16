@@ -150,8 +150,6 @@ https://www.forbes.com
 
 ## Additional Resources
 
-## Additional Resources
-
 - [AI Assistant Guide](ai-assistant-guide.md)
 - [Appointment Booking AI for Consultants](ai-appointment-booking-consultants.md)
 - [AI Receptionist for College Consultants](ai-receptionist-college-consultants.md)
