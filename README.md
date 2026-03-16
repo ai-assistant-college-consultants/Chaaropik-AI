@@ -128,15 +128,16 @@ Learn more about the **AI assistant for college consultants**:
 
 https://chaaropik.com/ai-assistant-college-consultants
 
+
 ## Additional Resources
 
-• AI Assistant Guide  
+AI Assistant Guide  
 ai-assistant-guide.md
 
-• Appointment Booking AI  
+Appointment Booking AI for Consultants  
 appointment-booking-ai.md
 
-• Automation Tools for Education Consultants  
+Automation Tools for Education Consultants  
 education-consultant-automation.md
 
 
