@@ -32,6 +32,4 @@ AI answering technology can help education consultants:
 - improve response times
 - streamline communication management
 
-Learn more about AI assistants for consultants:
-
-https://chaaropik.com/ai-assistant-college-consultants
+Learn more about [AI appointment booking for consultants](link)
