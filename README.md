@@ -251,3 +251,7 @@ https://chaaropik.com/ai-assistant-college-consultants
 Start automating your consulting workflow today.
 
 ---
+## 🔗 Related Pages
+
+- [AI Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/ai-assistant-college-consultants/)
+- [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)
