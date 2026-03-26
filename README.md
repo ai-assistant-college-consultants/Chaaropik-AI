@@ -218,12 +218,6 @@ These tools help consultants operate more efficiently and scale their business.
 
 ---
 
-## 🔗 Related Resources
-
-- [AI Assistant Guide](./ai-assistant-guide.md)  
-- [Appointment Booking AI for Consultants](./ai-appointment-booking-consultants.md)  
-- [AI Receptionist for College Consultants](./ai-receptionist-college-consultants.md)  
-- [Automation Tools for Education Consultants](./ai-answering-service-education-consultants.md)  
 
 ---## 🚀 Get More Students with AI (No Missed Leads)
 
@@ -252,9 +246,10 @@ Start automating your consulting workflow today.
 
 ---
 
-- ## 🔗 Related AI Solutions
+## 🔗 Related AI Solutions
 
 - [AI Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/ai-assistant-college-consultants/)
 - [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)
 - [Appointment Booking AI for Education Consultants](https://ai-assistant-college-consultants.github.io/appointment-booking-ai-consultants/)
 - [Virtual Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/virtual-assistant-college-consultants/)
+- [AI Chatbot for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-chatbot-education-consultants/)
