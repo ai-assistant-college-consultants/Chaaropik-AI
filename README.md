@@ -257,3 +257,4 @@ Start automating your consulting workflow today.
 - [AI Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/ai-assistant-college-consultants/)
 - [AI Answering Service for Education Consultants](https://ai-assistant-college-consultants.github.io/ai-answering-service-education/)
 - [Appointment Booking AI for Education Consultants](https://ai-assistant-college-consultants.github.io/appointment-booking-ai-consultants/)
+- [Virtual Assistant for College Consultants](https://ai-assistant-college-consultants.github.io/virtual-assistant-college-consultants/)
